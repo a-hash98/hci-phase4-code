@@ -1,0 +1,39 @@
+{
+  "expo": {
+    "name": "HCI-Phase-4",
+    "slug": "h-c-i-phase4",
+    "scheme": "h-c-i-phase4",
+    "description": "HCI-Phase-4, powered by Draftbit",
+    "privacy": "unlisted",
+    "platforms": [
+      "ios"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/icon.png",
+    "splash": {
+      "image": "./assets/images/splash.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#5A45FF"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "bundleIdentifier": "com.draftbit.hciphase4",
+      "supportsTablet": false,
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "versionCode": 1,
+      "package": "com.draftbit.hciphase4",
+      "permissions": []
+    },
+    "web": {
+      "themeColor": "#000000"
+    },
+    "notification": {
+      "androidMode": "default"
+    }
+  }
+}
